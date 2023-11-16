@@ -8,6 +8,9 @@ contributor:
     deathdate: 1965
     gutenberg_agent_id: '37417'
     url: http://www.gutenberg.org/2009/agents/37417
+covers:
+- cover_type: archival
+  image_path: 72086-h/images/cover.jpg
 creator:
   author:
     agent_name: Mukerji, Dhan Gopal
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25575
     wikipedia: http://en.wikipedia.org/wiki/Dhan_Gopal_Mukerji
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72086#Gay-Neck-b-The-story-of-a-Pigeon
 gutenberg_issued: '2023-11-10'
 identifiers:
   gutenberg: '72086'
